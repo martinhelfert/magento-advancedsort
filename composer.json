@@ -1,0 +1,9 @@
+{
+   "name": "meanbee/bestsellersort",
+   "type": "magento-module",
+   "description": "Adds Best Seller sort by to product listings",
+   "homepage": "https://github.com/meanbee/magento-advancedsort",
+   "suggest": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}
